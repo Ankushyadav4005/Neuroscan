@@ -163,8 +163,12 @@ JWT_SECRET_KEY=your_secret_key_here
 
 ## 📸 Screenshots
 
-
-
+![Login Page](screenshots/loginpg.png)
+![Patient Information](screenshots/patientinfo.png)
+![MRI Upload](screenshots/mriupld.png)
+![Tumor Detection](screenshots/detection.png)
+![Dashboard](screenshots/dashbrd.png)
+![Scan History](screenshots/pastscans.png)
 ---
 
 ## 👤 Author
