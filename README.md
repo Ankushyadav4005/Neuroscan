@@ -162,12 +162,17 @@ JWT_SECRET_KEY=your_secret_key_here
 ---
 
 ## 📸 Screenshots
-
+#Login Page
 ![Login Page](screenshots/loginpg.png)
+#Patient Information
 ![Patient Information](screenshots/patientinfo.png)
+#MRI Upload
 ![MRI Upload](screenshots/mriupld.png)
+#Tumor Detection Result
 ![Tumor Detection](screenshots/detection.png)
+#Dashboard
 ![Dashboard](screenshots/dashbrd.png)
+#Scan History
 ![Scan History](screenshots/pastscans.png)
 ---
 
